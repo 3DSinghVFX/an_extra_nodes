@@ -1,4 +1,4 @@
 {
-    "Copy Target" : "../.config/blender/2.83/scripts/addons/",
+    "Copy Target" : "../.config/blender/2.91/scripts/addons/",
     "Cython Include Paths" : ["./animation_nodes_headers/"]
 }
